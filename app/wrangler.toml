@@ -1,0 +1,20 @@
+name = "lms"
+main = "src/index.ts"
+compatibility_date = "2024-02-08"
+
+[vars]
+# GOOGLE_CLIENT_ID = ""
+# TOSS_SECRET_KEY = ""
+# JWT_SECRET = ""
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lms-db"
+database_id = "48d2da5e-d209-46f3-acc1-b8e194c3eb01"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "lms-assets"
+
+# [ai]
+# binding = "AI"
