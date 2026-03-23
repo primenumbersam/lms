@@ -1,6 +1,6 @@
-# 🚀 Mini-LMS: Zero Infras. High Edge Efficiency.
+# 🚀 Mini-LMS
 
-**Mini-LMS**는 로컬 PC(N100 등)에서 콘텐츠를 관리하고, Cloudflare Edge(Workers)에서 서비스를 구동하여 운영 비용과 트래픽 비용을 극소화한 1인 강사용 경량 학습 플랫폼입니다.
+**Mini-LMS**는 로컬 PC(N100 등)에서 콘텐츠를 관리하고, Cloudflare Edge(Workers)에서 서비스를 구동하여 운영 비용과 트래픽 비용을 극소화한 경량 강의팔이 플랫폼입니다.
 
 ---
 
